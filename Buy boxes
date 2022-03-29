@@ -27,4 +27,4 @@ var check = setInterval(() => {
         alert("Dony buying boxes");
     }
 }, 751);
- 
+
